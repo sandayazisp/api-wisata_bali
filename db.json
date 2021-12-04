@@ -1,0 +1,74 @@
+{
+    "wisata_bali": [{
+            "id": 1,
+            "nama": "Shopee",
+            "gambar": "img/Shopee.jpg",
+            "link": "https://www.dicoding.com"
+        },
+        {
+            "id": 2,
+            "nama": "Dicoding",
+            "gambar": "img/Dicoding.png",
+            "link": "https://www.dicoding.com"
+        },
+        {
+            "id": 3,
+            "nama": "Grab",
+            "gambar": "img/Grab.png",
+            "link": "https://www.grab.com"
+        },
+        {
+            "id": 4,
+            "nama": "Glints",
+            "gambar": "img/Perusahaan_1.png",
+            "link": "https://glints.com"
+        }, {
+            "id": 5,
+            "nama": "Hacktiv8",
+            "gambar": "img/Hacktiv8.jpg",
+            "link": "https://www.hacktiv8.com"
+        }, {
+            "id": 6,
+            "nama": "Dana",
+            "gambar": "img/Dana.jpg",
+            "link": "https://www.dana.id"
+        }, {
+            "id": 7,
+            "nama": "XL",
+            "gambar": "img/Provider.png",
+            "link": "https://www.xl.co.id/id"
+        }, {
+            "id": 8,
+            "nama": "Telkom",
+            "gambar": "img/Telkom.png",
+            "link": "https://www.telkom.co.id"
+        }, {
+            "id": 9,
+            "nama": "Zenius",
+            "gambar": "img/Zenius.jpg",
+            "link": "https://www.zenius.net"
+        }, {
+            "id": 10,
+            "nama": "Binar Academy",
+            "gambar": "/img/BinarAcademy.jpg",
+            "link": "https://www.binaracademy.com"
+        }, {
+            "id": 11,
+            "nama": "Telkomsel",
+            "gambar": "img/Telkomsel.jpg",
+            "link": "https://www.telkomsel.com"
+        },
+        {
+            "id": 12,
+            "nama": "Tokopedia",
+            "gambar": "img/Tokopedia.jpg",
+            "link": "https://www.tokopedia.com"
+        },
+        {
+            "id": 13,
+            "nama": "Traveloka",
+            "gambar": "img/Traveloka.jpg",
+            "link": "https://www.traveloka.com"
+        }
+    ]
+}
