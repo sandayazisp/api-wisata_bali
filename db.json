@@ -2,7 +2,7 @@
     "wisata_bali": [{
             "id": 1,
             "nama": "Shopee",
-            "gambar": "img/Shopee.jpg",
+            "gambar": "https://iili.io/5pheJ2.jpg",
             "link": "https://www.dicoding.com"
         },
         {
